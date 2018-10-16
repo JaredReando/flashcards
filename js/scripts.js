@@ -1,106 +1,56 @@
 $(function(){
   $("#clickhere1").click(function(){
-    $("#p1").toggle();
+    $("#p1").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere2").click(function(){
-    $("#p2").toggle();
+    $("#p2").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere3").click(function(){
-    $("#p3").toggle();
+    $("#p3").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere4").click(function(){
-    $("#p4").toggle();
+    $("#p4").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere5").click(function(){
-    $("#p5").toggle();
+    $("#p5").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere6").click(function(){
-    $("#p6").toggle();
+    $("#p6").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere7").click(function(){
-    $("#p7").toggle();
+    $("#p7").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere8").click(function(){
-    $("#p8").toggle();
+    $("#p8").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere9").click(function(){
-    $("#p9").toggle();
+    $("#p9").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere10").click(function(){
-    $("#p10").toggle();
+    $("#p10").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere11").click(function(){
-    $("#p11").toggle();
+    $("#p11").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere12").click(function(){
-    $("#p12").toggle();
+    $("#p12").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere13").click(function(){
-    $("#p13").toggle();
+    $("#p13").fadeToggle();
   });
-});
-$(function(){
   $("#clickhere14").click(function(){
-    $("#p14").toggle();
+    $("#p14").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere15").click(function(){
-    $("#p15").toggle();
+    $("#p15").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere16").click(function(){
-    $("#p16").toggle();
+    $("#p16").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere17").click(function(){
-    $("#p17").toggle();
+    $("#p17").fadeToggle();
   });
-});
-
-$(function(){
   $("#clickhere18").click(function(){
-    $("#p18").toggle();
+    $("#p18").fadeToggle();
   });
 });

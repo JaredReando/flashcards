@@ -6,17 +6,23 @@
 h1 {
   border: 4px solid black;
 }
+
 .jumbotron {
   background-color: #5cb85c;
   border: 4px solid #28a745;
 }
 
+h3 {
+  background-color: rgba(255, 255, 255, 0.7);
+  cursor: grabbing;
+}
+
 p {
-  /* background-color: #8CFF95; */
   background-color: rgba(255, 255, 255, 0.7);
   border: 2px solid #28a745;
   display: none;
 }
+
 .well{
   width: 300px;
   height: 225px;
